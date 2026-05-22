@@ -1,5 +1,5 @@
 
-![Alt Text](images/tempo_dashboard)
+![Alt Text](images/tempo_dashboard.png)
 ============================================================
 
 CLONE REPOSITORY ============================================================
